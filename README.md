@@ -3,9 +3,6 @@
 Predict diabetes early — empower healthcare decisions with the power of data and AI.  
 This project applies machine learning algorithms to predict the likelihood of diabetes based on health indicators such as glucose levels, BMI, and age.
 
-🌐 **Live Demo**  
-🚧 *To be added soon! (Deployment in progress)*
-
 ---
 
 ## ⚡ Project Overview
